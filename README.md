@@ -49,7 +49,7 @@ I'm Keith Kreschollek, a passionate Computer Science major and Music minor, comb
 
 ## 🎵 Fun Fact
 
-When I'm not coding or conducting research, you can find me composing music or playing the piano, channeling my inner Fiona Apple.
+When I'm not coding or conducting research, you can find me composing music or playing the piano.
 
 ## 💬 Let's Collaborate!
 
