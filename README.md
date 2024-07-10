@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate Computer Science major and Music minor, combining technology and creativity to explore the fascinating realms of childhood development. Currently, I'm diving deep into a psychological research project where I program web applications to study and understand how children develop and grow.
+I'm Keith Kreschollek, a passionate Computer Science major and Music minor, combining technology and creativity to explore the fascinating realms of childhood development. Currently, I'm diving deep into a psychological research project where I program web applications to study and understand how children develop and grow.
 
 ## 🚀 About Me
 
@@ -45,9 +45,7 @@ I'm [Your Name], a passionate Computer Science major and Music minor, combining 
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter/)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/keith-kreschollek/)
 
 ## 🎵 Fun Fact
 
