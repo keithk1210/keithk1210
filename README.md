@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**keithk1210/keithk1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate Computer Science major and Music minor, combining technology and creativity to explore the fascinating realms of childhood development. Currently, I'm diving deep into a psychological research project where I program web applications to study and understand how children develop and grow.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Education:** 
+  - **Major:** Computer Science
+  - **Minor:** Music
+
+- 🧠 **Current Project:** 
+  - Working on a psychological research project programming web apps to study childhood development.
+
+- 🎶 **Interests:**
+  - Bridging the gap between technology and psychology.
+  - Exploring the interplay between music and cognitive development.
+
+## 🛠️ Skills
+
+### Programming Languages:
+- Python
+- JavaScript
+- HTML/CSS
+
+### Web Development:
+- React
+- Node.js
+- Flask
+
+### Tools & Technologies:
+- Git & GitHub
+- Docker
+- SQL & NoSQL databases
+
+### Other:
+- Data Analysis
+- UX/UI Design
+- Music Composition & Theory
+
+## 🌱 What I'm Learning
+
+- Advanced machine learning techniques.
+- New web development frameworks.
+- The psychological principles of childhood development.
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- [Twitter](https://twitter.com/your-twitter/)
+- [Personal Website](https://your-website.com)
+
+## 🎵 Fun Fact
+
+When I'm not coding or conducting research, you can find me composing music or playing the piano, channeling my inner Fiona Apple.
+
+## 💬 Let's Collaborate!
+
+I'm always open to new projects, collaborations, or just a friendly chat. Feel free to reach out!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
